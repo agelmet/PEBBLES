@@ -1,0 +1,16 @@
+{
+ "source": {
+  "kind": "file",
+  "ref": "assets/img/pebbles-mykonos-icon.svg"
+ },
+ "source_md5": "de8fc2e4c7a4522eae6ad63fbe9f8add",
+ "version": "489a928f",
+ "tile": null,
+ "crop": null,
+ "header": [
+  "inline",
+  "index.html",
+  "a6522934f200de682c06bf3008998f1d"
+ ],
+ "made": "2026-11-14"
+}
